@@ -1,3 +1,15 @@
+# LWC II - Exercício 1
+
+No componente app do (webcomponents.dev) exiba valores para os atributos
+primeironome,  sobrenome, idade, email, classificação, empresa e
+receitaanual. (valores atribuídos internamente dentro da classe app.js)
+
+h1 -> Lead (primeironome ) (sobrenome)
+
+parágrafos para: (idade, email, classificação, empresa e receita anual)
+
+
+
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
